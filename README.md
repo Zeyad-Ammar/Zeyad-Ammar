@@ -27,26 +27,18 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
 
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  <table border="0">
+    <tr>
+      <td><a href="https://github.com/Zeyad-Ammar"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="65"></a></td>
+      <td><a href="https://www.linkedin.com/in/zeyad-ammar-a17994254/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="65"></a></td>
+      <td><a href="https://codeforces.com/profile/Zeyad_Ammar"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" width="60"></a></td>
+    </tr>
+  </table>
+</div>
 
-<a href="https://github.com/Zeyad-Ammar">
-<img height="65" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
-</a>
-
-  
-
-<a href="https://www.linkedin.com/in/zeyad-ammar-a17994254/">
-<img height="65" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
-</a>
-
-  
-
-<a href="https://codeforces.com/profile/Zeyad_Ammar">
-<img height="60" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png"/>
-</a>
-
-</p>
 
 ---
 
