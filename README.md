@@ -2,10 +2,10 @@
 <h3 align="center">.NET Backend Developer | Competitive Programmer</h3>
 
 <p align="center">
-🏆 1191+ Problems Solved on Codeforces
+🏆 1200+ Problems Solved on Codeforces
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+.NET+Developer;Competitive+Programmer;Future+Codeforces+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+.NET+Developer;Competitive+Programmer;Codeforces+Pupil" />
 </p>
 
 <p align="center">
