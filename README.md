@@ -102,7 +102,7 @@ I regularly practice **Algorithms and Data Structures** and participate in conte
 ### Database
 
 <p>
-<img height="70" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"/>
+<img height="50" width="50" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"/>
 </p>
 
 ### Data Access
